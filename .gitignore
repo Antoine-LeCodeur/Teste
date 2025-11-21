@@ -5,3 +5,4 @@ var/test.log
 *.obj
 *.json
 config.ini
+*.sys
