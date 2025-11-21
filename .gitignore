@@ -6,3 +6,4 @@ var/test.log
 *.json
 config.ini
 *.sys
+.antoine
